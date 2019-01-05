@@ -1,0 +1,36 @@
+All code within this program is © J. Craig Venter Institute.  All rights reserved.  
+This software may utilize packages authored by other organizations that have been 
+licensed to JCVI via a GNU General Public License (GPL), 
+the GNU Lesser General Public License (LGPL), or some other form of copyleft.  
+This software is licensed to the USER under GPL version three-point-zero (3.0).  
+To view the text of this license, please visit: http://www.gnu.org/licenses/gpl.txt
+
+THE FOLLOWING NOTICES MUST BE PUBLISHED WITH ALL DOWNSTREAM CONVEYANCES OF THIS SOFTWARE, WITHOUT EXCEPTION:
+
+In downloading or executing this program, USER hereby agrees to the following terms:
+USER may convey this work in any way shape of form. To convey a work means to propagate 
+it in any way that allows others to make or receive copies of it.
+
+USER hereby agrees to acknowledge the author of the software in any publications/presentations 
+reporting use of it.  The suggested form for acknowledgment is: 
+
+“The following data was obtained using software written and freely distributed by the NIAID’s 
+Pathogen Functional Genomics Resource Center, managed and funded by the Division of Microbiology 
+and Infectious Diseases, NIAID, NIH, DHHS and operated by the J. Craig Venter Institute.”  
+
+THIS SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR USE OF A 
+PARTICULAR PURPOSE, OR NONINFRINGEMENT;
+
+
+IN UTILIZING THIS SOFTWARE, USER AGREES THAT JCVI WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGES, 
+EITHER ACTUAL OR CONSEQUENTIAL, ARISING OUT OF OR RELATING TO THESE TERMS, OR TO USER’S OR ANY 
+THIRD PARTIES USE OR INABILITY TO USE THE SOFTWARE, OR TO USER’S RELIANCE UPON INFORMATION 
+OBTAINED FROM OR THROUGH A JCVI WEBSITE. IN PARTICULAR, JCVI WILL HAVE NO LIABILITY FOR ANY 
+CONSEQUENTIAL, INDIRECT, PUNITIVE, SPECIAL OR INCIDENTAL DAMAGES, WHETHER FORSEEABLE OR 
+UNFORSEEABLE (INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DEFAMATION, ERRORS, LOSS OF DATA, 
+OR INTERRUPTION IN AVAILABILITY OF DATA), ARISING OUT OF OR RELATING TO THESE TERMS, USER’S 
+USE OR INABILITY TO USE THE SOFTWARE, OR ANY PURCHASES ON A JCVI SITE, OR TO USER’S RELIANCE 
+UPON INFORMATION OBTAINED FROM OR THROUGH A JCVI SITE, WHETHER BASED ON CONTRACT, TORT, STATUTORY, 
+OR OTHER LAW, EXCEPT ONLY IN THE CASE OF DEATH OR PERSONAL INJURY WHERE AND ONLY TO THE 
+EXTENT THAT APPLICABLE LAW REQUIRES SUCH LIABILITY.
